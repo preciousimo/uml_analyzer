@@ -1,0 +1,4 @@
+lxml==4.9.3
+spacy==3.5.3
+nltk==3.8.1
+scikit-learn==1.2.2
